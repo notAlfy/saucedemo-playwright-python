@@ -57,7 +57,7 @@ saucedemo-playwright-pytest/
 ### 1️⃣ Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/notAlfy/saucedemo-playwright-python
 cd saucedemo-playwright-pytest
 ```
 
