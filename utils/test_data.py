@@ -1,0 +1,3 @@
+FIRST_NAME = "Abrar"
+LAST_NAME = "Test"
+POSTAL_CODE = "1206"
