@@ -113,6 +113,10 @@ Open it in your browser to view:
 
 ---
 
+## Screenshots
+
+ ![img.png](img.png)
+
 ## 💡 Key Highlights
 
 * Designed using industry-standard automation practices
