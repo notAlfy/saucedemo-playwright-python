@@ -4,16 +4,16 @@ This project demonstrates an end-to-end UI automation testing framework for the 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-* 🐍 Python
-* 🎭 Playwright
-* 🧪 Pytest
-* 📊 pytest-html (Reporting)
+*  Python
+*  Playwright
+*  Pytest
+*  Html Report
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 saucedemo-playwright-pytest/
@@ -41,7 +41,7 @@ saucedemo-playwright-pytest/
 
 ---
 
-## ✅ Features
+##  Features
 
 * ✔ Page Object Model (POM) design pattern
 * ✔ Automated Login functionality
@@ -52,9 +52,9 @@ saucedemo-playwright-pytest/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```
 git clone https://github.com/your-username/saucedemo-playwright-python
@@ -63,7 +63,7 @@ cd saucedemo-playwright-pytest
 
 ---
 
-### 2️⃣ Create virtual environment
+### Create virtual environment
 
 ```
 python -m venv .venv
@@ -72,7 +72,7 @@ python -m venv .venv
 
 ---
 
-### 3️⃣ Install dependencies
+### Install dependencies
 
 ```
 pip install -r requirements.txt
@@ -81,7 +81,7 @@ playwright install
 
 ---
 
-## ▶️ Running Tests
+## Running Tests
 
 Run all tests:
 
@@ -97,7 +97,7 @@ pytest tests/test_login.py
 
 ---
 
-## 📊 Test Report
+## Test Report
 
 After execution, a report will be generated:
 
@@ -117,7 +117,7 @@ Open it in your browser to view:
 
  ![img.png](img.png)
 
-## 💡 Key Highlights
+##  Key Highlights
 
 * Designed using industry-standard automation practices
 * Supports easy scalability for additional test cases
@@ -126,7 +126,7 @@ Open it in your browser to view:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * 🔹 Add Allure Reporting
 * 🔹 Parallel Test Execution
